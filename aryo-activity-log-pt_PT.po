@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Activity Log\n"
 "POT-Creation-Date: 2016-09-14 11:39+0100\n"
-"PO-Revision-Date: 2016-09-14 12:31+0100\n"
+"PO-Revision-Date: 2016-10-11 22:03+0100\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -104,7 +104,7 @@ msgstr "Filtrar"
 
 #: classes/class-aal-activity-log-list-table.php:314
 msgid "All Roles"
-msgstr "Todos os perfis"
+msgstr "Todos os papéis"
 
 #: classes/class-aal-activity-log-list-table.php:338
 msgid "All Users"
