@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Activity Log\n"
 "POT-Creation-Date: 2016-10-11 22:09+0100\n"
-"PO-Revision-Date: 2016-11-09 16:18+0000\n"
+"PO-Revision-Date: 2017-01-20 09:11+0000\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: aryo-activity-log.php:115 aryo-activity-log.php:126
 msgid "Cheatin&#8217; huh?"
-msgstr "Com que então a fazer batota?"
+msgstr "Enganou-se?"
 
 #: classes/class-aal-activity-log-list-table.php:104
 msgid "Activities"
